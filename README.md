@@ -5,7 +5,6 @@ RedFuzz is a REDCap External Module that provides fuzzy keyword search across th
 
 A lightweight fuzzy‑matching search module for REDCap with synonym expansion, stopword filtering, record‑level grouping, and inline match highlighting.
 
----
 ## **Features**
 
 - **Fuzzy Matching** — Word‑level fuzzy scoring using PHP’s `similar_text()`.
